@@ -9,5 +9,5 @@ esto es una texto escrito por mi , y esta es mi repositorio de la tarea que ya n
 <br>
 **y esta es la imagen**
 ![no carga la imagen]
-<img src="http:./fondoMac.jpg" height="60" width="60" >
+<img src="fondoMac.jpg" height="60" width="60" >
 (https://raw.githubusercontent.com/JHSprogramador/TareaGitHub/main/fondoMac.jpg)
